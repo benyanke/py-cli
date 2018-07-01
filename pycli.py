@@ -28,7 +28,7 @@ class GitHelp:
                 'flags': [
                     {
                         'shortForm': 'f1',
-                        'longForm': 'flag2',
+                        'longForm': 'flag1',
                         'description': 'Flag 1',
                         'isRequired': True,
                         'val': 'required',
